@@ -1,0 +1,5 @@
+E:\Software\VisualStudio\2017\Project\Unity5.x_PureMVC\Unity5.x_PureMVC\bin\Debug\Unity5.x_PureMVC.dll
+E:\Software\VisualStudio\2017\Project\Unity5.x_PureMVC\Unity5.x_PureMVC\bin\Debug\Unity5.x_PureMVC.pdb
+E:\Software\VisualStudio\2017\Project\Unity5.x_PureMVC\Unity5.x_PureMVC\obj\Debug\Unity5.x_PureMVC.csproj.CoreCompileInputs.cache
+E:\Software\VisualStudio\2017\Project\Unity5.x_PureMVC\Unity5.x_PureMVC\obj\Debug\Unity5.x_PureMVC.dll
+E:\Software\VisualStudio\2017\Project\Unity5.x_PureMVC\Unity5.x_PureMVC\obj\Debug\Unity5.x_PureMVC.pdb
